@@ -1,5 +1,5 @@
-# Smart Society
-> 한양대학교 2023-2 소프트웨어공학 프로젝트 (SWE Project in Hanyang Univ. 2023-2)
+# HOLME
+> 한양대학교 2023-2 소프트웨어공학/인공지능및응용 프로젝트 (SWE/AI & Applications Project in Hanyang Univ. 2023-2)
 
 ## Proposal
 We propose HOLME, an innovative MATTER-based smart home configuration application. HOLME is designed to provide users with unparalleled convenience and adaptability when managing their smart home environments. It offers a unique solution for seamlessly transferring smart home settings to different locations using QR codes, which marks a significant departure from the traditional smart home paradigm.
