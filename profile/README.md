@@ -21,13 +21,13 @@ Reconfiguring smart home settings every time a user moves is be time consuming a
 5. [Demo Video - Scenario 4](https://www.youtube.com/watch?v=oNb0_ROaePk)
 
 ## Future Works
-Currently, Holme is limited to residential facilities such as users' homes and accommodations.
-However, the core concept of Holme—convenient migration of personal settings—can be applied various places.
+Currently, Holme is limited to residential facilities such as users' homes and accommodations. However, the core concept of Holme—convenient migration of personal settings—can be applied various places.
+
 For those who frequently use shared offices
-for those who have personal preferences such as preferred temperature or music when driving a vehicle
-for those who frequently use private rooms in study cafes
-we believe the possibilities of Holme are limitless.
-We expect Holme to play a significant role in the smart home market in the near future.
+For those who have personal preferences such as preferred temperature or music when driving a vehicle
+For those who frequently use private rooms in study cafes
+
+We believe the possibilities of Holme are limitless. We expect Holme to play a significant role in the smart home market in the near future.
 
 ## Tech Blog
 https://flame-sun-524.notion.site/HOLME-d41cf1a8e87b4c71b638a93c58ca63f2
