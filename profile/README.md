@@ -23,4 +23,4 @@ Ha Seongwu, Department of Information Systems, rockey6865@hanyang.ac.kr
 1. [Demo Showcase 1: HOLME - MATTER SYNCHRONIZATION 1](https://www.youtube.com/watch?v=_8MSu9Gs6W8)
 
 ## Tech Blog
-https://flame-sun-524.notion.site/HOLME-d41cf1a8e87b4c71b638a93c58ca63f2?pvs=4
+https://flame-sun-524.notion.site/HOLME-d41cf1a8e87b4c71b638a93c58ca63f2
