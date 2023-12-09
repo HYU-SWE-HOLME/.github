@@ -11,7 +11,7 @@ HOLME supports voice input through NUGU AI speaker. They can activate or deactiv
 Reconfiguring smart home settings every time a user moves is be time consuming and inconvenient. HOLME can simplify this process by allowing users to easily import their smart home settings, providing them with seamless and ever-connected smart home environment.
 
 ## Architecture Design
-![Untitled](https://github.com/PROJECT-HOLME/.github/assets/68896078/bd742166-910c-44f8-8c38-dc2cf2fe5973)
+![Group 52 (1)](https://github.com/PROJECT-HOLME/.github/assets/68896078/6c495784-9b10-4cf4-93a4-bab96bef1f80)
 
 ## Vidoes
 1. [Service Introduction Video](https://www.youtube.com/watch?v=HlD644ya8SU)
