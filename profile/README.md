@@ -30,7 +30,7 @@ For those who frequently use private rooms in study cafes
 We believe the possibilities of Holme are limitless. We expect Holme to play a significant role in the smart home market in the near future.
 
 ## Tech Blog
-https://flame-sun-524.notion.site/HOLME-d41cf1a8e87b4c71b638a93c58ca63f2
+[Notion Link](https://flame-sun-524.notion.site/HOLME-d41cf1a8e87b4c71b638a93c58ca63f2)
 
 ## Contributers
 Kang Museong, Department of Information Systems, bbibbi4808@hanyang.ac.kr
